@@ -6,4 +6,4 @@ Labo 6 de technologie web
 -Ouvrir son navigateur et mettre l'url "localhost:8000/formation"  
 Vidéo de démonstration: https://www.youtube.com/watch?v=ighgmZ2wZRA
 
-Je n'ai pas réussi a le lancer sur ma machine virtuelle
+Je n'ai pas réussi à le lancer sur ma machine virtuelle
